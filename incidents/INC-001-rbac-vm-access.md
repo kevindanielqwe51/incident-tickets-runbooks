@@ -46,7 +46,7 @@ Juan was unable to view the virtual machines.
 
 
 
-![Initial access failure](screenshots/INC-001-01-juan-no-access.png)
+![Initial access failure](https://github.com/kevindanielqwe51/incident-tickets-runbooks/blob/main/screenshots/INC-001-01-juan-no-access.png)
 
 
 
