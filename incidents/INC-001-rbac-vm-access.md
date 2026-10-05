@@ -46,7 +46,7 @@ Juan was unable to view the virtual machines.
 
 
 
-!\[Initial access failure](../screenshots/INC-001-01-no-access.png)
+![Initial access failure](screenshots/INC-001-01-no-access.png)
 
 
 
