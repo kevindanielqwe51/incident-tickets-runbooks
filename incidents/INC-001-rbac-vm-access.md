@@ -58,7 +58,7 @@ The Administrators group has the Contributor role assigned at the target Resourc
 
 
 
-![Contributor assignment](screenshots/INC-001-02-contributor-rg.png)
+![Contributor assignment](https://github.com/kevindanielqwe51/incident-tickets-runbooks/blob/main/screenshots/INC-001-02-contributor-rg.png)
 
 
 
@@ -70,7 +70,7 @@ Juan was added to the Administrators group.
 
 
 
-![User added to group](screenshots/INC-001-03-juan-added-group.png)
+![User added to group](https://github.com/kevindanielqwe51/incident-tickets-runbooks/blob/main/screenshots/INC-001-03-juan-added-group.png)
 
 
 
@@ -82,7 +82,7 @@ Juan was able to access the virtual machines after the RBAC change.
 
 
 
-![Access restored](screenshots/INC-001-04-juan-access-restored.png)
+![Access restored](https://github.com/kevindanielqwe51/incident-tickets-runbooks/blob/main/screenshots/INC-001-04-juan-access-restored.png)
 
 
 
