@@ -66,35 +66,12 @@ Updated the NSG rule to allow HTTP traffic on TCP port 80 and add a firewall rul
 
 
 
+![Application Architecture](screenshots/INC-002-vm-application-arquitecture.png)
 
+![NSG Blocking Port 80](screenshots/INC-002-NSG-blocking80.png)
 
-\## Evidence
+![Initial Troubleshooting: Ping Success, Curl Failed](screenshots/INC-002-service-running-ping-success-curl-failed.png)
 
-
-
-\### Application Architecture
-
-!\[Application Architecture](https://github.com/kevindanielqwe51/incident-tickets-runbooks/blob/main/screenshots/INC-002-vm-application-arquitecture.png)
-
-
-
-
-
-\### NSG Blocking Port 80
-
-!\[NSG Blocking Port 80](https://github.com/kevindanielqwe51/incident-tickets-runbooks/blob/main/screenshots//INC-002-NSG-blocking80.png)
-
-
-
-\### Initial Troubleshooting
-
-!\[Ping successful but curl failed](https://github.com/kevindanielqwe51/incident-tickets-runbooks/blob/main/screenshots/INC-002-service-running-ping-success-curl-failed.png)
-
-
-
-\### Resolution — Apache Working
-
-!\[Apache working after firewall rule was added](https://github.com/kevindanielqwe51/incident-tickets-runbooks/blob/main/screenshots/INC-002-firewall-rule-added-apache-working.png)
-
+![Resolution: Apache Working](screenshots/INC-002-firewall-rule-added-apache-working.png)
 
 
